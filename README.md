@@ -1,6 +1,10 @@
 # Code Generator
- app in CMD for creating codes
+ABOUT THE APP || STATUS OF THE PROJECT: COMPLETED
+- app in CMD for creating randomized codes controlled by user prefered choices  
 
-App works so that you start app in CMD, then you put only the criteria you want for the generation of random code and it is written out in the txt file. 
+INSTRUCTIONS
+- operates in CMD
+- user can put different criterias for the password based on his preferences
+- when he finishes the creation of a password the code is auto generated in txt file and user can copy it and use it at their own choice 
 
-STATUS OF THE PROJECT: COMPLETED
+
